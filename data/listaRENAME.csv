@@ -1,363 +1,364 @@
-"acetato de betametasona + fosfato dissódico de betametasona", "3 mg/mL + 3 mg/mL", "suspensão injetável";
-"acetato de hidrocortisona", "10 mg/g (1%)", "creme";
-"acetato de medroxiprogesterona", "50 mg/mL", "suspensão injetável";
-"acetato de medroxiprogesterona", "150 mg/mL", "suspensão injetável";
-"acetato de medroxiprogesterona", "10 mg", "comprimido";
-"acetato de sódio", "2 mEq/mL", "solução injetável";
-"acetazolamida", "250 mg", "comprimido";
-"aciclovir", "200 mg", "comprimido";
-"aciclovir", "50 mg/g (5%)", "creme";
-"aciclovir", "250 mg", "pó para solução injetável";
-"ácido acetilsalicílico", "100 mg", "comprimido";
-"ácido acetilsalicílico", "500 mg", "comprimido";
-"ácido fólico", "5 mg", "comprimido";
-"ácido fólico", "0,2 mg/mL", "solução oral";
-"ácido salicílico", "50 mg/g (5%) (FN)*", "pomada";
-"ácido valproico (valproato de sódio)", "250 mg", "cápsula";
-"ácido valproico (valproato de sódio)", "250 mg", "comprimido";
-"ácido valproico (valproato de sódio)", "50 mg/mL", "solução oral";
-"ácido valproico (valproato de sódio)", "50 mg/mL", "xarope";
-"ácido valproico (valproato de sódio)", "500 mg", "comprimido";
-"albendazol", "40 mg/mL", "suspensão oral";
-"albendazol", "400 mg", "comprimido mastigável";
-"alcachofra (Cynara scolymus L.)", "24 mg a 48 mg de derivados de ácido cafeoilquínico expressos em ácido clorogênico (dose diária)", "cápsula";
-"alcachofra (Cynara scolymus L.)", "24 mg a 48 mg de derivados de ácido cafeoilquínico expressos em ácido clorogênico (dose diária)", "comprimido";
-"alcachofra (Cynara scolymus L.)", "24 mg a 48 mg de derivados de ácido cafeoilquínico expressos em ácido clorogênico (dose diária)", "solução oral";
-"alcachofra (Cynara scolymus L.)", "24 mg a 48 mg de derivados de ácido cafeoilquínico expressos em ácido clorogênico (dose diária)", "tintura";
-"alcatrão mineral", "10 mg/g (1%) (FN)*", "pomada";
-"alendronato de sódio", "10 mg", "comprimido";
-"alendronato de sódio", "70 mg", "comprimido";
-"alopurinol", "100 mg", "comprimido";
-"alopurinol", "300 mg", "comprimido";
-"amoxicilina", "50 mg/mL", "suspensão oral";
-"amoxicilina", "500 mg", "cápsula";
-"amoxicilina", "500 mg", "comprimido";
-"amoxicilina + clavulanato de potássio", "50 mg/mL + 12,5 mg/mL", "suspensão oral";
-"amoxicilina + clavulanato de potássio", "500 mg + 125 mg", "comprimido";
-"anlodipino", "5 mg", "comprimido";
-"anlodipino", "10 mg", "comprimido";
-"aroeira (Schinus terebinthifolia Raddi)", "1,932 mg de ácido gálico (dose diária)", "gel vaginal";
-"aroeira (Schinus terebinthifolia Raddi)", "1,932 mg de ácido gálico (dose diária)", "óvulo vaginal";
-"atenolol", "50 mg", "comprimido";
-"atenolol", "100 mg", "comprimido";
-"azitromicina", "500 mg", "comprimido";
-"azitromicina", "40 mg/mL", "pó para suspensão oral";
-"babosa [Aloe vera (L.)  Burm. f.]", "10-70%", "gel fresco creme";
-"babosa [Aloe vera (L.)  Burm. f.]", "10-70%", "gel fresco gel";
-"benzilpenicilina benzatina", "600.000 UI", "pó para suspensão injetável";
-"benzilpenicilina benzatina", "600.000 UI", "suspensão injetável";
-"benzilpenicilina benzatina", "1.200.000 UI", "pó para suspensão injetável";
-"benzilpenicilina benzatina", "1.200.000 UI", "suspensão injetável";
-"benzilpenicilina potássica", "5.000.000 UI", "pó para solução injetável";
-"benzilpenicilina procaína + benzilpenicilina potássica", "300.000 UI + 100.000 UI", "pó para suspensão injetável";
-"benzoilmetronidazol", "40 mg/mL", "suspensão oral";
-"bicarbonato de sódio", "1 mEq/mL (8,4%)", "solução injetável";
-"brometo de ipratrópio", "0,25 mg/mL", "solução para inalação";
-"brometo de ipratrópio", "20 mcg/dose", "solução para inalação oral";
-"budesonida", "32 mcg", "suspensão para inalação nasal";
-"budesonida", "50 mcg", "suspensão para inalação nasal";
-"budesonida", "64 mcg", "suspensão para inalação nasal";
-"cabergolina", "0,5 mg", "comprimido";
-"captopril", "25 mg", "comprimido";
-"carbamazepina", "200 mg", "comprimido";
-"carbamazepina", "400 mg", "comprimido";
-"carbamazepina", "20 mg/mL", "suspensão ora";
-"carbonato de cálcio", "1.250 mg (500 mg de cálcio)", "comprimido";
-"carbonato de cálcio + colecalciferol", "1.250 mg (500 mg de cálcio) + 200 UI", "comprimido";
-"carbonato de cálcio + colecalciferol", "1.250 mg (500 mg de cálcio) + 400 UI", "comprimido";
-"carbonato de cálcio + colecalciferol", "1.500 mg (600 mg de cálcio) + 400 UI", "comprimido";
-"carbonato de lítio", "300 mg", "comprimido";
-"carvão vegetal ativado", "-", "pó para suspensão oral";
-"carvedilol", "3,125 mg", "comprimido";
-"carvedilol", "6,25 mg", "comprimido";
-"carvedilol", "12,5 mg", "comprimido";
-"carvedilol", "25 mg", "comprimido";
-"cáscara-sagrada (Rhamnus purshiana DC.)", "20 mg a 30 mg de derivados hidroxiantracênicos expressos em cascarosídeo A (dose diária)", "cápsula";
-"cáscara-sagrada (Rhamnus purshiana DC.)", "20 mg a 30 mg de derivados hidroxiantracênicos expressos em cascarosídeo A (dose diária)", "tintura";
-"cefalexina", "500 mg", "cápsula";
-"cefalexina", "500 mg", "comprimido";
-"cefalexina", "50 mg/mL", "suspensão oral";
-"cefotaxima sódica", "500 mg", "pó para solução injetável";
-"ceftriaxona", "250 mg", "pó para solução injetável";
-"ceftriaxona", "500 mg", "pó para solução injetável";
-"ceftriaxona", "1 g", "pó para solução injetável";
-"cetoconazol", "20 mg/g (2%)", "xampu";
-"cianocobalamina", "1.000 mcg", "solução injetável";
-"ciprofloxacino", "250 mg", "comprimido";
-"ciprofloxacino", "500 mg", "comprimido";
-"claritromicina", "250 mg", "comprimido";
-"claritromicina", "500 mg", "comprimido";
-"claritromicina", "500 mg", "cápsula";
-"claritromicina", "50 mg/mL", "suspensão oral";
-"clonazepam", "2,5 mg/mL", "solução oral";
-"cloranfenicol", "250 mg", "cápsula";
-"cloranfenicol", "250 mg", "comprimido";
-"cloreto de potássio", "2,56 mEq/mL (19,1%)", "solução injetável";
-"cloreto de sódio", "3,4 mEq/mL (20%)", "solução injetável";
-"cloreto de sódio", "0,9% (9 mg/mL)", "solução nasal";
-"cloreto de sódio", "0,9% (0,154 mEq/mL)", "solução injetável";
-"cloridrato de amiodarona", "50 mg/mL", "solução injetável";
-"cloridrato de amiodarona", "200 mg", "comprimido";
-"cloridrato de amitriptilina", "25 mg", "comprimido";
-"cloridrato de amitriptilina", "75 mg", "comprimido";
-"cloridrato de biperideno", "2 mg", "comprimido";
-"cloridrato de biperideno", "4 mgv", "comprimido de liberação prolongada";
-"cloridrato de bupivacaína", "2,5 mg/mL (0,25%)", "solução injetável";
-"cloridrato de bupivacaína", "5 mg/mL (0,50%)", "solução injetável";
-"cloridrato de clindamicina", "150 mg", "cápsula";
-"cloridrato de clindamicina", "300 mg", "cápsula";
-"cloridrato de clomipramina", "10 mg", "comprimido";
-"cloridrato de clomipramina", "25 mg", "comprimido";
-"cloridrato de clorpromazina", "5 mg/mL", "solução injetável";
-"cloridrato de clorpromazina", "40 mg/mL", "solução oral";
-"cloridrato de clorpromazina", "25 mg", "comprimido";
-"cloridrato de clorpromazina", "100 mg", "comprimido";
-"cloridrato de dobutamina", "12,5 mg/mL", "solução injetável";
-"cloridrato de dopamina", "5 mg/mL", "solução injetável";
-"cloridrato de fluoxetina", "20 mg", "cápsula";
-"cloridrato de fluoxetina", "20 mg", "comprimido";
-"cloridrato de hidralazina", "25 mg", "comprimido";
-"cloridrato de hidralazina", "50 mg", "comprimido";
-"cloridrato de lidocaína", "10 mg/mL (1%)", "solução injetável";
-"cloridrato de lidocaína", "20 mg/mL (2%)", "solução injetável";
-"cloridrato de lidocaína", "20 mg/g (2%)", "gel";
-"cloridrato de lidocaína", "100 mg/mL", "solução spray";
-"cloridrato de lidocaína + glicose", "50 mg/mL + 75 mg/mL  (5% + 7,5%)", "solução injetável";
-"cloridrato de lidocaína + hemitartarato de epinefrina", "2% + 1:200.000", "solução injetável";
-"cloridrato de lidocaína + hemitartarato de epinefrina", "2% + 1:80.000", "solução injetável";
-"cloridrato de lidocaína + hemitartarato de epinefrina", "1% + 1:200.000", "solução injetável";
-"cloridrato de metformina", "500 mg", "comprimido";
-"cloridrato de metformina", "850 mg", "comprimido";
-"cloridrato de metoclopramida", "10 mg", "comprimido";
-"cloridrato de metoclopramida", "5 mg/mL", "solução injetável";
-"cloridrato de metoclopramida", "4 mg/mL", "solução oral";
-"cloridrato de naloxona", "0,4 mg/mL", "solução injetável";
-"cloridrato de nortriptilina", "10 mg", "cápsula";
-"cloridrato de nortriptilina", "25 mg", "cápsula";
-"cloridrato de nortriptilina", "50 mg", "cápsula";
-"cloridrato de nortriptilina", "75 mg", "cápsula";
-"cloridrato de ondansetrona", "4 mg", "comprimido";
-"cloridrato de ondansetrona", "4 mg", "comprimido orodispersível";
-"cloridrato de ondansetrona", "8 mg", "comprimido";
-"cloridrato de ondansetrona", "8 mg", "comprimido orodispersível";
-"cloridrato de pilocarpina", "20 mg/mL (2%)", "solução oftálmica";
-"cloridrato de piridoxina", "40 mg", "comprimido";
-"cloridrato de prilocaína + felipressina", "30 mg/mL (3%) + 0,03 UI mL", "solução injetável";
-"cloridrato de prometazina", "25 mg", "comprimido";
-"cloridrato de prometazina", "25 mg/mL", "solução injetável";
-"cloridrato de propafenona", "150 mg", "comprimido";
-"cloridrato de propafenona", "300 mg", "comprimido";
-"cloridrato de propranolol", "10 mg", "comprimido";
-"cloridrato de propranolol", "40 mg", "comprimido";
-"cloridrato de protamina", "10 mg/mL", "solução injetável";
-"cloridrato de ranitidina", "25 mg/mL", "solução injetável";
-"cloridrato de ranitidina", "15 mg/mL", "xarope";
-"cloridrato de ranitidina", "150 mg", "comprimido";
-"cloridrato de tetraciclina", "10 mg/g (1%)", "pomada oftálmica";
-"cloridrato de tiamina", "300 mg", "comprimido";
-"cloridrato de verapamil", "80 mg", "comprimido";
-"cloridrato de verapamil", "2,5 mg/mL", "solução injetável";
-"cloridrato de verapamil", "120 mg", "comprimido";
-"decanoato de haloperidol", "50 mg/mL", "solução injetável";
-"dexametasona", "1 mg/g (0,1%)", "creme";
-"dexametasona", "1 mg/g (0,1%)", "pomada oftálmica";
-"dexametasona", "1 mg/mL (0,1%)", "suspensão oftálmica";
-"dexametasona", "4 mg", "comprimido";
-"dexametasona", "0,1 mg/mL", "elixir";
-"diazepam", "5 mg/mL", "solução injetável";
-"diazepam", "5 mg", "comprimido";
-"diazepam", "10 mg", "comprimido";
-"digliconato de clorexidina", "0,12%", "solução bucal";
-"digliconato de clorexidina", "2% a 4%", "solução para uso tópico";
-"digoxina", "0,25 mg", "comprimido";
-"digoxina", "0,05 mg/mL", "elixir";
-"dinitrato de isossorbida", "5 mg", "comprimido sublingual";
-"dipirona", "500 mg/mL", "solução injetável";
-"dipirona", "500 mg", "comprimido";
-"dipirona", "500 mg/mL", "solução oral";
-"dipropionato de beclometasona", "50 mcg/dose", "solução para inalação oral";
-"dipropionato de beclometasona", "50 mcg/dose", "suspensão para inalação nasal";
-"dipropionato de beclometasona", "200 mcg/dose", "pó para inalação oral";
-"dipropionato de beclometasona", "200 mcg/dose", "solução para inalação oral";
-"dipropionato de beclometasona", "200 mcg/dose", "cápsula para inalação oral";
-"dipropionato de beclometasona", "250 mcg/dose", "solução para inalação oral";
-"dipropionato de beclometasona", "400 mcg/dose", "pó para inalação oral";
-"dipropionato de beclometasona", "400 mcg/dose", "cápsula para inalação oral";
-"enantato de noretisterona + valerato de estradiol", "50 mg/mL + 5 mg/mL", "solução injetável";
-"epinefrina", "1 mg/mL", "solução injetável";
-"espinheira-santa (Maytenus ilicifolia Mart. ex Reissek)", "60 mg a 90 mg de taninos totais expressos em pirogalol (dose diária)", "cápsula";
-"espinheira-santa (Maytenus ilicifolia Mart. ex Reissek)", "60 mg a 90 mg de taninos totais expressos em pirogalol (dose diária)", "tintura";
-"espinheira-santa (Maytenus ilicifolia Mart. ex Reissek)", "60 mg a 90 mg de taninos totais expressos em pirogalol (dose diária)", "suspensão oral";
-"espinheira-santa (Maytenus ilicifolia Mart. ex Reissek)", "60 mg a 90 mg de taninos totais expressos em pirogalol (dose diária)", "emulsão oral";
-"espironolactona", "25 mg", "comprimido";
-"espironolactona", "100 mg", "comprimido";
-"estolato de eritromicina", "25 mg/mL", "suspensão oral";
-"estolato de eritromicina", "50 mg/mL", "suspensão oral";
-"estolato de eritromicina", "500 mg", "comprimido";
-"estriol", "1 mg/g", "creme vaginal";
-"estrogênios conjugados", "0,625 mg/g", "creme vaginal";
-"estrogênios conjugados", "0,3 mg", "comprimido";
-"etinilestradiol + levonorgestrel", "0,03 mg + 0,15 mg", "comprimido";
-"fenitoína", "100 mg", "comprimido";
-"fenitoína", "20 mg/mL", "suspensão oral";
-"fenitoína", "50 mg/mL", "solução injetável";
-"fenobarbital", "100 mg/mL", "solução injetável";
-"fenobarbital", "100 mg", "comprimido";
-"fenobarbital", "40 mg/mL", "solução oral";
-"finasterida", "5 mg", "comprimido";
-"fluconazol", "150 mg", "cápsula";
-"fluconazol", "10 mg/mL", "suspensão oral";
-"fluconazol", "100 mg", "cápsula";
-"flumazenil", "0,1 mg/mL", "solução injetável";
-"folinato de cálcio (ácido folínico)", "15 mg", "comprimido";
-"fosfato de cálcio tribásico + colecalciferol", "1661,616 mg (600 mg de cálcio) + 400 UI", "comprimido";
-"fosfato de potássio monobásico + fosfato de potássio dibásico", "0,03 g/mL + 0,1567 g/mL", "solução injetável";
-"fosfato dissódico de dexametasona", "4 mg/mL", "solução injetável";
-"fosfato sódico de prednisolona", "1 mg/mL", "solução oral";
-"fosfato sódico de prednisolona", "3 mg/mL", "solução oral";
-"furosemida", "40 mg", "comprimido";
-"furosemida", "10 mg/mL", "solução injetável";
-"garra-do-diabo (Harpagophytum procumbens DC. ex Meissn.)", "30 mg a 100 mg de harpagosídeo ou 45 mg a 150 mg de iridoides totais expressos em harpagosídeos (dose diária)", "cápsula";
-"garra-do-diabo (Harpagophytum procumbens DC. ex Meissn.)", "30 mg a 100 mg de harpagosídeo ou 45 mg a 150 mg de iridoides totais expressos em harpagosídeos (dose diária)", "comprimido";
-"garra-do-diabo (Harpagophytum procumbens DC. ex Meissn.)", "30 mg a 100 mg de harpagosídeo ou 45 mg a 150 mg de iridoides totais expressos em harpagosídeos (dose diária)", "comprimido de liberação retardada";
-"glibenclamida", "5 mg", "comprimido";
-"glicerol", "120 mg/mL", "solução retal";
-"glicerol", "72 mgv", "supositório retal";
-"gliclazida", "30 mg", "comprimido de liberação prolongada";
-"gliclazida", "60 mg", "comprimido de liberação prolongada";
-"gliclazida", "80 mg", "comprimido";
-"glicose", "50 mg/mL (5%)", "solução injetável";
-"glicose", "100 mg/mL (10%)", "solução injetável";
-"glicose", "500 mg/mL (50%)", "solução injetável";
-"guaco (Mikania glomerata Spreng.)", "0,5 mg a 5 mg de cumarina (dose diária)", "tintura";
-"guaco (Mikania glomerata Spreng.)", "0,5 mg a 5 mg de cumarina (dose diária)", "xarope";
-"guaco (Mikania glomerata Spreng.)", "0,5 mg a 5 mg de cumarina (dose diária)", "solução oral";
-"haloperidol", "1 mg", "comprimido";
-"haloperidol", "5 mg", "comprimido";
-"haloperidol", "2 mg/mL", "solução oral";
-"haloperidol", "5 mg/mL", "solução injetável";
-"hemitartarato de norepinefrina", "2 mg/mL", "solução injetável";
-"heparina sódica", "5.000 UI/0,25 mL", "solução injetável";
-"hidroclorotiazida", "12,5 mg", "comprimido";
-"hidroclorotiazida", "25 mg", "comprimido";
-"hidróxido de alumínio", "230 mg", "comprimido";
-"hidróxido de alumínio", "300 mg", "comprimido";
-"hidróxido de alumínio", "61,5 mg/mL", "suspensão oral";
-"hipromelose", "3 mg/mL (0,3%)", "solução oftálmica";
-"hipromelose", "5 mg/mL (0,5%)", "solução oftálmica";
-"hortelã (Mentha x piperita L.)", "60 mg a 440 mg de mentol e 28 mg a 256 mg de mentona (dose diária)", "cápsula";
-"ibuprofeno", "200 mg", "comprimido";
-"ibuprofeno", "300 mg", "comprimido";
-"ibuprofeno", "600 mg", "comprimido";
-"ibuprofeno", "50 mg/mL", "suspensão oral";
-"insulina humana NPH", "100 UI/mL", "suspensão injetável";
-"insulina humana regular", "100 UI/mL", "solução injetável";
-"isoflavona-de-soja [Glycine max (L.) Merr.]", "50 mg a 120 mg de isoflavonas (dose diária)", "cápsula";
-"isoflavona-de-soja [Glycine max (L.) Merr.]", "50 mg a 120 mg de isoflavonas (dose diária)", "comprimido";
-"itraconazol", "100 mg", "cápsula";
-"itraconazol", "10 mg/mL", "solução oral";
-"ivermectina", "6 mg", "comprimido";
-"lactato de biperideno", "5 mg/mL", "solução injetável";
-"lactulose", "667 mg/mL", "xarope";
-"levodopa + benserazida", "100 mg + 25 mg", "cápsula";
-"levodopa + benserazida", "100 mg + 25 mg", "comprimido";
-"levodopa + benserazida", "200 mg + 50 mg", "comprimido";
-"levodopa + carbidopa", "200 mg + 50 mg", "comprimido";
-"levodopa + carbidopa", "250 mg + 25 mg", "comprimido";
-"levonorgestrel", "0,75 mg", "comprimido";
-"levonorgestrel", "1,5 mg", "comprimido";
-"levotiroxina sódica", "25 mcg", "comprimido";
-"levotiroxina sódica", "50 mcg", "comprimido";
-"levotiroxina sódica", "100 mcg", "comprimido";
-"loratadina", "10 mg", "comprimido";
-"loratadina", "1 mg/mL", "xarope";
-"losartana potássica", "50 mg", "comprimido";
-"maleato de dexclorfeniramina", "2 mg", "comprimido";
-"maleato de dexclorfeniramina", "0,4 mg/mL", "solução oral";
-"maleato de dexclorfeniramina", "0,4 mg/mL", "xarope";
-"maleato de enalapril", "5 mg", "comprimido";
-"maleato de enalapril", "10 mg", "comprimido";
-"maleato de enalapril", "20 mg", "comprimido";
-"maleato de timolol", "2,5 mg/mL (0,25%)", "solução oftálmica";
-"maleato de timolol", "5 mg/mL (0,5%)", "solução oftálmica";
-"mesilato de doxazosina", "2 mg", "comprimido";
-"mesilato de doxazosina", "4 mg", "comprimido";
-"mesilato de pralidoxima", "200 mg", "solução injetável";
-"metildopa", "250 mg", "comprimido";
-"metronidazol", "100 mg/g (10%)", "gel vaginal";
-"metronidazol", "250 mg", "comprimido";
-"metronidazol", "400 mg", "comprimido";
-"midazolam", "2 mg/mL", "solução oral";
-"misoprostol", "25 mcg", "comprimido vaginal";
-"misoprostol", "200 mcg", "comprimido vaginal";
-"mononitrato de isossorbida", "20 mg", "comprimido";
-"mononitrato de isossorbida", "40 mg", "comprimido";
-"nifedipino", "10 mg", "cápsula";
-"nifedipino", "10 mg", "comprimido";
-"nistatina", "100.000 UI/mL", "suspensão oral";
-"nitrato de miconazol", "2% (20 mg/g)", "gel oral";
-"nitrato de miconazol", "2% (20 mg/g)", "loção";
-"nitrato de miconazol", "2% (20 mg/g)", "pó";
-"nitrato de miconazol", "2% (20 mg/g)", "creme vaginal";
-"nitrato de miconazol", "2% (20 mg/g)", "creme";
-"nitrofurantoína", "100 mg", "cápsula";
-"nitrofurantoína", "5 mg/mL", "suspensão oral";
-"noretisterona", "0,35 mg", "comprimido";
-"óleo mineral", "–", "óleo para uso oral";
-"omeprazol", "10 mg", "cápsula";
-"omeprazol", "20 mg", "cápsula";
-"palmitato de retinol", "150.000 UI/mL", "solução oral";
-"paracetamol", "200 mg/mL", "solução oral";
-"paracetamol", "500 mg", "comprimido";
-"pasta-d’água", "FN*", "pasta";
-"permanganato de potássio", "100 mg", "comprimido para uso tópico";
-"permanganato de potássio", "100 mg (FN)*", "pó";
-"permetrina", "10 mg/g (1%)", "loção";
-"permetrina", "50 mg/g (5%)", "loção";
-"peróxido de benzoíla", "25 mg/g (2,5%) (FN)*", "gel";
-"peróxido de benzoíla", "50 mg/g (5%) (FN)*", "gel";
-"plantago (Plantago ovata Forssk.)", "3 g a 30 g (dose diária)", "pó para dispersão oral";
-"podofilina", "100 mg/mL (10%) a  250 mg/mL (25%) (FN)*", "solução para uso tópico";
-"prednisona", "5 mg", "comprimido";
-"prednisona", "20 mg", "comprimido";
-"propiltiouracila", "100 mg", "comprimido";
-"sais para reidratação oral", "cloreto de sódio, glicose anidra, cloreto de potássio, citrato de sódio di-hidratado", "pó para solução oral";
-"salgueiro (Salix alba L.)", "60 mg a 240 mg de salicina (dose diária)", "comprimido";
-"salgueiro (Salix alba L.)", "60 mg a 240 mg de salicina (dose diária)", "elixir";
-"salgueiro (Salix alba L.)", "60 mg a 240 mg de salicina (dose diária)", "solução oral";
-"sinvastatina", "10 mg", "comprimido";
-"sinvastatina", "20 mg", "comprimido";
-"sinvastatina", "40 mg", "comprimido";
-"solução ringer + lactato", "lactato de sódio 3 mg/mL + cloreto de sódio 6 mg/mL + cloreto de potássio 0,3 mg/ mL + cloreto de cálcio 0,2 mg/mL", "solução injetável";
-"succinato de metoprolol", "25 mg", "comprimido de liberação prolongada";
-"succinato de metoprolol", "50 mg", "comprimido de liberação prolongada";
-"succinato de metoprolol", "100 mg", "comprimido de liberação prolongada";
-"succinato sódico de hidrocortisona", "100 mg", "pó para solução injetável";
-"succinato sódico de hidrocortisona", "500 mg", "pó para solução injetável";
-"sulfadiazina de prata", "10 mg/g (1%)", "creme";
-"sulfametoxazol + trimetoprima", "40 mg/mL + 8 mg/mL", "suspensão oral";
-"sulfametoxazol + trimetoprima", "80 mg/mL + 16 mg/mL", "solução injetável";
-"sulfametoxazol + trimetoprima", "400 mg + 80 mg", "comprimido";
-"sulfato de atropina", "0,25 mg/mL", "solução injetável";
-"sulfato de gentamicina", "5 mg/g", "pomada oftálmica";
-"sulfato de gentamicina", "5 mg/mL", "solução oftálmica";
-"sulfato de magnésio", "–", "pó para solução oral";
-"sulfato de magnésio", "10% (0,81 mEq/mL Mg++)", "solução injetável";
-"sulfato de magnésio", "50% (4,05 mEq/mL Mg++)", "solução injetável";
-"sulfato de salbutamol", "100 mcg/dose", "aerossol oral";
-"sulfato de salbutamol", "5 mg/mL", "solução para inalação";
-"sulfato de salbutamol", "0,5 mg/mL", "solução injetável";
-"sulfato de zinco", "200 mcg/mL", "solução injetável";
-"sulfato de zinco", "10 mg", "comprimido mastigável";
-"sulfato de zinco", "4 mg/mL", "xarope";
-"sulfato ferroso", "5 mg/mL", "xarope";
-"sulfato ferroso", "25 mg/mL", "solução oral";
-"sulfato ferroso", "40 mg", "comprimido";
-"tartarato de metoprolol", "100 mg", "comprimido";
-"teclozana", "500 mg", "comprimido";
-"teclozana", "10 mg/mL", "suspensão oral";
-"unha-de-gato [Uncaria tomentosa (Willd. ex Roem. & Schult.)]", "0,9 mg de alcaloides oxindólicos pentaclíclicos", "cápsula";
-"unha-de-gato [Uncaria tomentosa (Willd. ex Roem. & Schult.)]", "0,9 mg de alcaloides oxindólicos pentaclíclicos", "comprimido";
-"unha-de-gato [Uncaria tomentosa (Willd. ex Roem. & Schult.)]", "0,9 mg de alcaloides oxindólicos pentaclíclicos", "gel";
-"varfarina sódica", "1 mg", "comprimido";
-"varfarina sódica", "5 mg", "comprimido";
+denominacao,composicao,forma
+acetato de betametasona + fosfato dissódico de betametasona, 3 mg/mL + 3 mg/mL, suspensão injetável
+acetato de hidrocortisona, 10 mg/g (1%), creme
+acetato de medroxiprogesterona, 50 mg/mL, suspensão injetável
+acetato de medroxiprogesterona, 150 mg/mL, suspensão injetável
+acetato de medroxiprogesterona, 10 mg, comprimido
+acetato de sódio, 2 mEq/mL, solução injetável
+acetazolamida, 250 mg, comprimido
+aciclovir, 200 mg, comprimido
+aciclovir, 50 mg/g (5%), creme
+aciclovir, 250 mg, pó para solução injetável
+ácido acetilsalicílico, 100 mg, comprimido
+ácido acetilsalicílico, 500 mg, comprimido
+ácido fólico, 5 mg, comprimido
+ácido fólico, 0,2 mg/mL, solução oral
+ácido salicílico, 50 mg/g (5%) (FN)*, pomada
+ácido valproico (valproato de sódio), 250 mg, cápsula
+ácido valproico (valproato de sódio), 250 mg, comprimido
+ácido valproico (valproato de sódio), 50 mg/mL, solução oral
+ácido valproico (valproato de sódio), 50 mg/mL, xarope
+ácido valproico (valproato de sódio), 500 mg, comprimido
+albendazol, 40 mg/mL, suspensão oral
+albendazol, 400 mg, comprimido mastigável
+alcachofra (Cynara scolymus L.), 24 mg a 48 mg de derivados de ácido cafeoilquínico expressos em ácido clorogênico (dose diária), cápsula
+alcachofra (Cynara scolymus L.), 24 mg a 48 mg de derivados de ácido cafeoilquínico expressos em ácido clorogênico (dose diária), comprimido
+alcachofra (Cynara scolymus L.), 24 mg a 48 mg de derivados de ácido cafeoilquínico expressos em ácido clorogênico (dose diária), solução oral
+alcachofra (Cynara scolymus L.), 24 mg a 48 mg de derivados de ácido cafeoilquínico expressos em ácido clorogênico (dose diária), tintura
+alcatrão mineral, 10 mg/g (1%) (FN)*, pomada
+alendronato de sódio, 10 mg, comprimido
+alendronato de sódio, 70 mg, comprimido
+alopurinol, 100 mg, comprimido
+alopurinol, 300 mg, comprimido
+amoxicilina, 50 mg/mL, suspensão oral
+amoxicilina, 500 mg, cápsula
+amoxicilina, 500 mg, comprimido
+amoxicilina + clavulanato de potássio, 50 mg/mL + 12,5 mg/mL, suspensão oral
+amoxicilina + clavulanato de potássio, 500 mg + 125 mg, comprimido
+anlodipino, 5 mg, comprimido
+anlodipino, 10 mg, comprimido
+aroeira (Schinus terebinthifolia Raddi), 1,932 mg de ácido gálico (dose diária), gel vaginal
+aroeira (Schinus terebinthifolia Raddi), 1,932 mg de ácido gálico (dose diária), óvulo vaginal
+atenolol, 50 mg, comprimido
+atenolol, 100 mg, comprimido
+azitromicina, 500 mg, comprimido
+azitromicina, 40 mg/mL, pó para suspensão oral
+babosa [Aloe vera (L.)  Burm. f.], 10-70%, gel fresco creme
+babosa [Aloe vera (L.)  Burm. f.], 10-70%, gel fresco gel
+benzilpenicilina benzatina, 600.000 UI, pó para suspensão injetável
+benzilpenicilina benzatina, 600.000 UI, suspensão injetável
+benzilpenicilina benzatina, 1.200.000 UI, pó para suspensão injetável
+benzilpenicilina benzatina, 1.200.000 UI, suspensão injetável
+benzilpenicilina potássica, 5.000.000 UI, pó para solução injetável
+benzilpenicilina procaína + benzilpenicilina potássica, 300.000 UI + 100.000 UI, pó para suspensão injetável
+benzoilmetronidazol, 40 mg/mL, suspensão oral
+bicarbonato de sódio, 1 mEq/mL (8,4%), solução injetável
+brometo de ipratrópio, 0,25 mg/mL, solução para inalação
+brometo de ipratrópio, 20 mcg/dose, solução para inalação oral
+budesonida, 32 mcg, suspensão para inalação nasal
+budesonida, 50 mcg, suspensão para inalação nasal
+budesonida, 64 mcg, suspensão para inalação nasal
+cabergolina, 0,5 mg, comprimido
+captopril, 25 mg, comprimido
+carbamazepina, 200 mg, comprimido
+carbamazepina, 400 mg, comprimido
+carbamazepina, 20 mg/mL, suspensão ora
+carbonato de cálcio, 1.250 mg (500 mg de cálcio), comprimido
+carbonato de cálcio + colecalciferol, 1.250 mg (500 mg de cálcio) + 200 UI, comprimido
+carbonato de cálcio + colecalciferol, 1.250 mg (500 mg de cálcio) + 400 UI, comprimido
+carbonato de cálcio + colecalciferol, 1.500 mg (600 mg de cálcio) + 400 UI, comprimido
+carbonato de lítio, 300 mg, comprimido
+carvão vegetal ativado, -, pó para suspensão oral
+carvedilol, 3,125 mg, comprimido
+carvedilol, 6,25 mg, comprimido
+carvedilol, 12,5 mg, comprimido
+carvedilol, 25 mg, comprimido
+cáscara-sagrada (Rhamnus purshiana DC.), 20 mg a 30 mg de derivados hidroxiantracênicos expressos em cascarosídeo A (dose diária), cápsula
+cáscara-sagrada (Rhamnus purshiana DC.), 20 mg a 30 mg de derivados hidroxiantracênicos expressos em cascarosídeo A (dose diária), tintura
+cefalexina, 500 mg, cápsula
+cefalexina, 500 mg, comprimido
+cefalexina, 50 mg/mL, suspensão oral
+cefotaxima sódica, 500 mg, pó para solução injetável
+ceftriaxona, 250 mg, pó para solução injetável
+ceftriaxona, 500 mg, pó para solução injetável
+ceftriaxona, 1 g, pó para solução injetável
+cetoconazol, 20 mg/g (2%), xampu
+cianocobalamina, 1.000 mcg, solução injetável
+ciprofloxacino, 250 mg, comprimido
+ciprofloxacino, 500 mg, comprimido
+claritromicina, 250 mg, comprimido
+claritromicina, 500 mg, comprimido
+claritromicina, 500 mg, cápsula
+claritromicina, 50 mg/mL, suspensão oral
+clonazepam, 2,5 mg/mL, solução oral
+cloranfenicol, 250 mg, cápsula
+cloranfenicol, 250 mg, comprimido
+cloreto de potássio, 2,56 mEq/mL (19,1%), solução injetável
+cloreto de sódio, 3,4 mEq/mL (20%), solução injetável
+cloreto de sódio, 0,9% (9 mg/mL), solução nasal
+cloreto de sódio, 0,9% (0,154 mEq/mL), solução injetável
+cloridrato de amiodarona, 50 mg/mL, solução injetável
+cloridrato de amiodarona, 200 mg, comprimido
+cloridrato de amitriptilina, 25 mg, comprimido
+cloridrato de amitriptilina, 75 mg, comprimido
+cloridrato de biperideno, 2 mg, comprimido
+cloridrato de biperideno, 4 mgv, comprimido de liberação prolongada
+cloridrato de bupivacaína, 2,5 mg/mL (0,25%), solução injetável
+cloridrato de bupivacaína, 5 mg/mL (0,50%), solução injetável
+cloridrato de clindamicina, 150 mg, cápsula
+cloridrato de clindamicina, 300 mg, cápsula
+cloridrato de clomipramina, 10 mg, comprimido
+cloridrato de clomipramina, 25 mg, comprimido
+cloridrato de clorpromazina, 5 mg/mL, solução injetável
+cloridrato de clorpromazina, 40 mg/mL, solução oral
+cloridrato de clorpromazina, 25 mg, comprimido
+cloridrato de clorpromazina, 100 mg, comprimido
+cloridrato de dobutamina, 12,5 mg/mL, solução injetável
+cloridrato de dopamina, 5 mg/mL, solução injetável
+cloridrato de fluoxetina, 20 mg, cápsula
+cloridrato de fluoxetina, 20 mg, comprimido
+cloridrato de hidralazina, 25 mg, comprimido
+cloridrato de hidralazina, 50 mg, comprimido
+cloridrato de lidocaína, 10 mg/mL (1%), solução injetável
+cloridrato de lidocaína, 20 mg/mL (2%), solução injetável
+cloridrato de lidocaína, 20 mg/g (2%), gel
+cloridrato de lidocaína, 100 mg/mL, solução spray
+cloridrato de lidocaína + glicose, 50 mg/mL + 75 mg/mL  (5% + 7,5%), solução injetável
+cloridrato de lidocaína + hemitartarato de epinefrina, 2% + 1:200.000, solução injetável
+cloridrato de lidocaína + hemitartarato de epinefrina, 2% + 1:80.000, solução injetável
+cloridrato de lidocaína + hemitartarato de epinefrina, 1% + 1:200.000, solução injetável
+cloridrato de metformina, 500 mg, comprimido
+cloridrato de metformina, 850 mg, comprimido
+cloridrato de metoclopramida, 10 mg, comprimido
+cloridrato de metoclopramida, 5 mg/mL, solução injetável
+cloridrato de metoclopramida, 4 mg/mL, solução oral
+cloridrato de naloxona, 0,4 mg/mL, solução injetável
+cloridrato de nortriptilina, 10 mg, cápsula
+cloridrato de nortriptilina, 25 mg, cápsula
+cloridrato de nortriptilina, 50 mg, cápsula
+cloridrato de nortriptilina, 75 mg, cápsula
+cloridrato de ondansetrona, 4 mg, comprimido
+cloridrato de ondansetrona, 4 mg, comprimido orodispersível
+cloridrato de ondansetrona, 8 mg, comprimido
+cloridrato de ondansetrona, 8 mg, comprimido orodispersível
+cloridrato de pilocarpina, 20 mg/mL (2%), solução oftálmica
+cloridrato de piridoxina, 40 mg, comprimido
+cloridrato de prilocaína + felipressina, 30 mg/mL (3%) + 0,03 UI mL, solução injetável
+cloridrato de prometazina, 25 mg, comprimido
+cloridrato de prometazina, 25 mg/mL, solução injetável
+cloridrato de propafenona, 150 mg, comprimido
+cloridrato de propafenona, 300 mg, comprimido
+cloridrato de propranolol, 10 mg, comprimido
+cloridrato de propranolol, 40 mg, comprimido
+cloridrato de protamina, 10 mg/mL, solução injetável
+cloridrato de ranitidina, 25 mg/mL, solução injetável
+cloridrato de ranitidina, 15 mg/mL, xarope
+cloridrato de ranitidina, 150 mg, comprimido
+cloridrato de tetraciclina, 10 mg/g (1%), pomada oftálmica
+cloridrato de tiamina, 300 mg, comprimido
+cloridrato de verapamil, 80 mg, comprimido
+cloridrato de verapamil, 2,5 mg/mL, solução injetável
+cloridrato de verapamil, 120 mg, comprimido
+decanoato de haloperidol, 50 mg/mL, solução injetável
+dexametasona, 1 mg/g (0,1%), creme
+dexametasona, 1 mg/g (0,1%), pomada oftálmica
+dexametasona, 1 mg/mL (0,1%), suspensão oftálmica
+dexametasona, 4 mg, comprimido
+dexametasona, 0,1 mg/mL, elixir
+diazepam, 5 mg/mL, solução injetável
+diazepam, 5 mg, comprimido
+diazepam, 10 mg, comprimido
+digliconato de clorexidina, 0,12%, solução bucal
+digliconato de clorexidina, 2% a 4%, solução para uso tópico
+digoxina, 0,25 mg, comprimido
+digoxina, 0,05 mg/mL, elixir
+dinitrato de isossorbida, 5 mg, comprimido sublingual
+dipirona, 500 mg/mL, solução injetável
+dipirona, 500 mg, comprimido
+dipirona, 500 mg/mL, solução oral
+dipropionato de beclometasona, 50 mcg/dose, solução para inalação oral
+dipropionato de beclometasona, 50 mcg/dose, suspensão para inalação nasal
+dipropionato de beclometasona, 200 mcg/dose, pó para inalação oral
+dipropionato de beclometasona, 200 mcg/dose, solução para inalação oral
+dipropionato de beclometasona, 200 mcg/dose, cápsula para inalação oral
+dipropionato de beclometasona, 250 mcg/dose, solução para inalação oral
+dipropionato de beclometasona, 400 mcg/dose, pó para inalação oral
+dipropionato de beclometasona, 400 mcg/dose, cápsula para inalação oral
+enantato de noretisterona + valerato de estradiol, 50 mg/mL + 5 mg/mL, solução injetável
+epinefrina, 1 mg/mL, solução injetável
+espinheira-santa (Maytenus ilicifolia Mart. ex Reissek), 60 mg a 90 mg de taninos totais expressos em pirogalol (dose diária), cápsula
+espinheira-santa (Maytenus ilicifolia Mart. ex Reissek), 60 mg a 90 mg de taninos totais expressos em pirogalol (dose diária), tintura
+espinheira-santa (Maytenus ilicifolia Mart. ex Reissek), 60 mg a 90 mg de taninos totais expressos em pirogalol (dose diária), suspensão oral
+espinheira-santa (Maytenus ilicifolia Mart. ex Reissek), 60 mg a 90 mg de taninos totais expressos em pirogalol (dose diária), emulsão oral
+espironolactona, 25 mg, comprimido
+espironolactona, 100 mg, comprimido
+estolato de eritromicina, 25 mg/mL, suspensão oral
+estolato de eritromicina, 50 mg/mL, suspensão oral
+estolato de eritromicina, 500 mg, comprimido
+estriol, 1 mg/g, creme vaginal
+estrogênios conjugados, 0,625 mg/g, creme vaginal
+estrogênios conjugados, 0,3 mg, comprimido
+etinilestradiol + levonorgestrel, 0,03 mg + 0,15 mg, comprimido
+fenitoína, 100 mg, comprimido
+fenitoína, 20 mg/mL, suspensão oral
+fenitoína, 50 mg/mL, solução injetável
+fenobarbital, 100 mg/mL, solução injetável
+fenobarbital, 100 mg, comprimido
+fenobarbital, 40 mg/mL, solução oral
+finasterida, 5 mg, comprimido
+fluconazol, 150 mg, cápsula
+fluconazol, 10 mg/mL, suspensão oral
+fluconazol, 100 mg, cápsula
+flumazenil, 0,1 mg/mL, solução injetável
+folinato de cálcio (ácido folínico), 15 mg, comprimido
+fosfato de cálcio tribásico + colecalciferol, 1661,616 mg (600 mg de cálcio) + 400 UI, comprimido
+fosfato de potássio monobásico + fosfato de potássio dibásico, 0,03 g/mL + 0,1567 g/mL, solução injetável
+fosfato dissódico de dexametasona, 4 mg/mL, solução injetável
+fosfato sódico de prednisolona, 1 mg/mL, solução oral
+fosfato sódico de prednisolona, 3 mg/mL, solução oral
+furosemida, 40 mg, comprimido
+furosemida, 10 mg/mL, solução injetável
+garra-do-diabo (Harpagophytum procumbens DC. ex Meissn.), 30 mg a 100 mg de harpagosídeo ou 45 mg a 150 mg de iridoides totais expressos em harpagosídeos (dose diária), cápsula
+garra-do-diabo (Harpagophytum procumbens DC. ex Meissn.), 30 mg a 100 mg de harpagosídeo ou 45 mg a 150 mg de iridoides totais expressos em harpagosídeos (dose diária), comprimido
+garra-do-diabo (Harpagophytum procumbens DC. ex Meissn.), 30 mg a 100 mg de harpagosídeo ou 45 mg a 150 mg de iridoides totais expressos em harpagosídeos (dose diária), comprimido de liberação retardada
+glibenclamida, 5 mg, comprimido
+glicerol, 120 mg/mL, solução retal
+glicerol, 72 mgv, supositório retal
+gliclazida, 30 mg, comprimido de liberação prolongada
+gliclazida, 60 mg, comprimido de liberação prolongada
+gliclazida, 80 mg, comprimido
+glicose, 50 mg/mL (5%), solução injetável
+glicose, 100 mg/mL (10%), solução injetável
+glicose, 500 mg/mL (50%), solução injetável
+guaco (Mikania glomerata Spreng.), 0,5 mg a 5 mg de cumarina (dose diária), tintura
+guaco (Mikania glomerata Spreng.), 0,5 mg a 5 mg de cumarina (dose diária), xarope
+guaco (Mikania glomerata Spreng.), 0,5 mg a 5 mg de cumarina (dose diária), solução oral
+haloperidol, 1 mg, comprimido
+haloperidol, 5 mg, comprimido
+haloperidol, 2 mg/mL, solução oral
+haloperidol, 5 mg/mL, solução injetável
+hemitartarato de norepinefrina, 2 mg/mL, solução injetável
+heparina sódica, 5.000 UI/0,25 mL, solução injetável
+hidroclorotiazida, 12,5 mg, comprimido
+hidroclorotiazida, 25 mg, comprimido
+hidróxido de alumínio, 230 mg, comprimido
+hidróxido de alumínio, 300 mg, comprimido
+hidróxido de alumínio, 61,5 mg/mL, suspensão oral
+hipromelose, 3 mg/mL (0,3%), solução oftálmica
+hipromelose, 5 mg/mL (0,5%), solução oftálmica
+hortelã (Mentha x piperita L.), 60 mg a 440 mg de mentol e 28 mg a 256 mg de mentona (dose diária), cápsula
+ibuprofeno, 200 mg, comprimido
+ibuprofeno, 300 mg, comprimido
+ibuprofeno, 600 mg, comprimido
+ibuprofeno, 50 mg/mL, suspensão oral
+insulina humana NPH, 100 UI/mL, suspensão injetável
+insulina humana regular, 100 UI/mL, solução injetável
+isoflavona-de-soja [Glycine max (L.) Merr.], 50 mg a 120 mg de isoflavonas (dose diária), cápsula
+isoflavona-de-soja [Glycine max (L.) Merr.], 50 mg a 120 mg de isoflavonas (dose diária), comprimido
+itraconazol, 100 mg, cápsula
+itraconazol, 10 mg/mL, solução oral
+ivermectina, 6 mg, comprimido
+lactato de biperideno, 5 mg/mL, solução injetável
+lactulose, 667 mg/mL, xarope
+levodopa + benserazida, 100 mg + 25 mg, cápsula
+levodopa + benserazida, 100 mg + 25 mg, comprimido
+levodopa + benserazida, 200 mg + 50 mg, comprimido
+levodopa + carbidopa, 200 mg + 50 mg, comprimido
+levodopa + carbidopa, 250 mg + 25 mg, comprimido
+levonorgestrel, 0,75 mg, comprimido
+levonorgestrel, 1,5 mg, comprimido
+levotiroxina sódica, 25 mcg, comprimido
+levotiroxina sódica, 50 mcg, comprimido
+levotiroxina sódica, 100 mcg, comprimido
+loratadina, 10 mg, comprimido
+loratadina, 1 mg/mL, xarope
+losartana potássica, 50 mg, comprimido
+maleato de dexclorfeniramina, 2 mg, comprimido
+maleato de dexclorfeniramina, 0,4 mg/mL, solução oral
+maleato de dexclorfeniramina, 0,4 mg/mL, xarope
+maleato de enalapril, 5 mg, comprimido
+maleato de enalapril, 10 mg, comprimido
+maleato de enalapril, 20 mg, comprimido
+maleato de timolol, 2,5 mg/mL (0,25%), solução oftálmica
+maleato de timolol, 5 mg/mL (0,5%), solução oftálmica
+mesilato de doxazosina, 2 mg, comprimido
+mesilato de doxazosina, 4 mg, comprimido
+mesilato de pralidoxima, 200 mg, solução injetável
+metildopa, 250 mg, comprimido
+metronidazol, 100 mg/g (10%), gel vaginal
+metronidazol, 250 mg, comprimido
+metronidazol, 400 mg, comprimido
+midazolam, 2 mg/mL, solução oral
+misoprostol, 25 mcg, comprimido vaginal
+misoprostol, 200 mcg, comprimido vaginal
+mononitrato de isossorbida, 20 mg, comprimido
+mononitrato de isossorbida, 40 mg, comprimido
+nifedipino, 10 mg, cápsula
+nifedipino, 10 mg, comprimido
+nistatina, 100.000 UI/mL, suspensão oral
+nitrato de miconazol, 2% (20 mg/g), gel oral
+nitrato de miconazol, 2% (20 mg/g), loção
+nitrato de miconazol, 2% (20 mg/g), pó
+nitrato de miconazol, 2% (20 mg/g), creme vaginal
+nitrato de miconazol, 2% (20 mg/g), creme
+nitrofurantoína, 100 mg, cápsula
+nitrofurantoína, 5 mg/mL, suspensão oral
+noretisterona, 0,35 mg, comprimido
+óleo mineral, –, óleo para uso oral
+omeprazol, 10 mg, cápsula
+omeprazol, 20 mg, cápsula
+palmitato de retinol, 150.000 UI/mL, solução oral
+paracetamol, 200 mg/mL, solução oral
+paracetamol, 500 mg, comprimido
+pasta-d’água, FN*, pasta
+permanganato de potássio, 100 mg, comprimido para uso tópico
+permanganato de potássio, 100 mg (FN)*, pó
+permetrina, 10 mg/g (1%), loção
+permetrina, 50 mg/g (5%), loção
+peróxido de benzoíla, 25 mg/g (2,5%) (FN)*, gel
+peróxido de benzoíla, 50 mg/g (5%) (FN)*, gel
+plantago (Plantago ovata Forssk.), 3 g a 30 g (dose diária), pó para dispersão oral
+podofilina, 100 mg/mL (10%) a  250 mg/mL (25%) (FN)*, solução para uso tópico
+prednisona, 5 mg, comprimido
+prednisona, 20 mg, comprimido
+propiltiouracila, 100 mg, comprimido
+sais para reidratação oral, cloreto de sódio, glicose anidra, cloreto de potássio, citrato de sódio di-hidratado, pó para solução oral
+salgueiro (Salix alba L.), 60 mg a 240 mg de salicina (dose diária), comprimido
+salgueiro (Salix alba L.), 60 mg a 240 mg de salicina (dose diária), elixir
+salgueiro (Salix alba L.), 60 mg a 240 mg de salicina (dose diária), solução oral
+sinvastatina, 10 mg, comprimido
+sinvastatina, 20 mg, comprimido
+sinvastatina, 40 mg, comprimido
+solução ringer + lactato, lactato de sódio 3 mg/mL + cloreto de sódio 6 mg/mL + cloreto de potássio 0,3 mg/ mL + cloreto de cálcio 0,2 mg/mL, solução injetável
+succinato de metoprolol, 25 mg, comprimido de liberação prolongada
+succinato de metoprolol, 50 mg, comprimido de liberação prolongada
+succinato de metoprolol, 100 mg, comprimido de liberação prolongada
+succinato sódico de hidrocortisona, 100 mg, pó para solução injetável
+succinato sódico de hidrocortisona, 500 mg, pó para solução injetável
+sulfadiazina de prata, 10 mg/g (1%), creme
+sulfametoxazol + trimetoprima, 40 mg/mL + 8 mg/mL, suspensão oral
+sulfametoxazol + trimetoprima, 80 mg/mL + 16 mg/mL, solução injetável
+sulfametoxazol + trimetoprima, 400 mg + 80 mg, comprimido
+sulfato de atropina, 0,25 mg/mL, solução injetável
+sulfato de gentamicina, 5 mg/g, pomada oftálmica
+sulfato de gentamicina, 5 mg/mL, solução oftálmica
+sulfato de magnésio, –, pó para solução oral
+sulfato de magnésio, 10% (0,81 mEq/mL Mg++), solução injetável
+sulfato de magnésio, 50% (4,05 mEq/mL Mg++), solução injetável
+sulfato de salbutamol, 100 mcg/dose, aerossol oral
+sulfato de salbutamol, 5 mg/mL, solução para inalação
+sulfato de salbutamol, 0,5 mg/mL, solução injetável
+sulfato de zinco, 200 mcg/mL, solução injetável
+sulfato de zinco, 10 mg, comprimido mastigável
+sulfato de zinco, 4 mg/mL, xarope
+sulfato ferroso, 5 mg/mL, xarope
+sulfato ferroso, 25 mg/mL, solução oral
+sulfato ferroso, 40 mg, comprimido
+tartarato de metoprolol, 100 mg, comprimido
+teclozana, 500 mg, comprimido
+teclozana, 10 mg/mL, suspensão oral
+unha-de-gato [Uncaria tomentosa (Willd. ex Roem. & Schult.)], 0,9 mg de alcaloides oxindólicos pentaclíclicos, cápsula
+unha-de-gato [Uncaria tomentosa (Willd. ex Roem. & Schult.)], 0,9 mg de alcaloides oxindólicos pentaclíclicos, comprimido
+unha-de-gato [Uncaria tomentosa (Willd. ex Roem. & Schult.)], 0,9 mg de alcaloides oxindólicos pentaclíclicos, gel
+varfarina sódica, 1 mg, comprimido
+varfarina sódica, 5 mg, comprimido

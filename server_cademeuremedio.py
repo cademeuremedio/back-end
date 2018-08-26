@@ -15,14 +15,13 @@ app.config['CORS_HEADERS'] = 'Content-Type'
 @app.route("/")
 @cross_origin()
 def raiz():
-    return "#CadêMeuRemêdio" + request.remote_addr + "P:" + request.environ.get('HTTP_X_REAL_IP', request.remote_addr)
+    return "#CadêMeuRemêdio"
 
 
-@app.route("/")
+@app.route("/meuip")
 @cross_origin()
 def meuip():
-    return "#CadêMeuRemêdio   IP: " + request.remote_addr + " : " + request.environ.get('HTTP_X_REAL_IP',
-                                                                                        request.remote_addr)
+    return "#CadêMeuRemêdio   IP: " + request.headers['X-Forwarded-For']
 
 
 @app.route('/lista')
@@ -41,7 +40,8 @@ def lista_medicamentos_sus(termo):
 def reporta_falta(cod_posto, cod_medicamento, cod_municipio, id_usr=''):
     if not cod_posto:
         return 'uso correto: /reporta_falta/<cod_posto>/<cod_medicamento>/<cod_municipio>  ou <br> /reporta_falta/<cod_posto>/<cod_medicamento>/<cod_municipio>/<id_usr>'
-    return str(f.grava_falta_remedio_por_municipio(cod_posto, cod_medicamento, cod_municipio, request.remote_addr))
+    return str(f.grava_falta_remedio_por_municipio(cod_posto, cod_medicamento, cod_municipio,
+                                                   request.headers['X-Forwarded-For']))
 
 
 # esse "proxy" é necessário porque a API do TCU não está em https.
