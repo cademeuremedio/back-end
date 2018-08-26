@@ -2,9 +2,10 @@ import os
 
 import requests
 from flask import Flask
+from flask import request
 from flask_cors import CORS, cross_origin
 
-import funcoes_cademeuremedio
+import funcoes_cademeuremedio as f
 
 app = Flask(__name__)
 cors = CORS(app)
@@ -14,24 +15,33 @@ app.config['CORS_HEADERS'] = 'Content-Type'
 @app.route("/")
 @cross_origin()
 def raiz():
-    return "#CadêMeuRemêdio"
+    return "#CadêMeuRemêdio" + request.remote_addr + "P:" + request.environ.get('HTTP_X_REAL_IP', request.remote_addr)
 
 
+@app.route("/")
+@cross_origin()
+def meuip():
+    return "#CadêMeuRemêdio   IP: " + request.remote_addr + " : " + request.environ.get('HTTP_X_REAL_IP',
+                                                                                        request.remote_addr)
+
+
+@app.route('/lista')
 @app.route('/lista/<termo>')
 @cross_origin()
 def lista_medicamentos_sus(termo):
     if not termo:
-        return '/lista/<termo>'
+        return 'uso correto: /lista/<termo>'
     else:
-        return funcoes_cademeuremedio.lista_medicamentos_sus(termo).to_json(orient='records')
+        return f.lista_medicamentos_sus(termo).to_json(orient='records')
 
+
+@app.route('/denuncia/<cod_posto>/<cod_medicamento>/<cod_municipio>')
 @app.route('/reporta_falta/<cod_posto>/<cod_medicamento>/<cod_municipio>')
-@app.route('/reporta_falta/<cod_posto>/<cod_medicamento>/<cod_municipio>/<id_usr>')
 @cross_origin()
 def reporta_falta(cod_posto, cod_medicamento, cod_municipio, id_usr=''):
     if not cod_posto:
-        return '/reporta_falta/<cod_posto>/<cod_medicamento>/<cod_municipio>  ou <br> /reporta_falta/<cod_posto>/<cod_medicamento>/<cod_municipio>/<id_usr>'
-    return str(funcoes_cademeuremedio.grava_falta_remedio_por_municipio(cod_posto, cod_medicamento, cod_municipio))
+        return 'uso correto: /reporta_falta/<cod_posto>/<cod_medicamento>/<cod_municipio>  ou <br> /reporta_falta/<cod_posto>/<cod_medicamento>/<cod_municipio>/<id_usr>'
+    return str(f.grava_falta_remedio_por_municipio(cod_posto, cod_medicamento, cod_municipio, request.remote_addr))
 
 
 # esse "proxy" é necessário porque a API do TCU não está em https.
@@ -48,21 +58,21 @@ def estabelecimentos(latitude, longitude, raio=50):
 @app.route('/score/<cod_posto>/<cod_medicamento>/<cod_municipio>')
 @cross_origin()
 def score(cod_posto, cod_medicamento, cod_municipio):
-    return '{"resultado":"' + str(funcoes_cademeuremedio.score_posto(cod_posto, cod_medicamento, cod_municipio)) + '"}'
+    return '{"resultado":"' + str(f.score_123(cod_posto, cod_medicamento, cod_municipio)) + '"}'
 
 
 @app.route('/ranking')
 @app.route('/ranking/<qtde>')
 @app.route('/ranking/<cidade>/<qtde>')
 @cross_origin()
-def ranking(qtde=10):
-    return funcoes_cademeuremedio.ranking(qtde)
+def ranking(qtde=10, cidade=0):
+    return f.ranking(qtde)
 
 
 @app.route('/todos_remedios/<termo>')
 @cross_origin()
 def todos_remedios(termo):
-    return funcoes_cademeuremedio.todos_remedios(termo).to_json(orient='records')
+    return f.todos_remedios(termo).to_json(orient='records')
 
 
 if __name__ == "__main__":

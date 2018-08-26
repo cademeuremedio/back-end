@@ -1,7 +1,9 @@
 import datetime
+import os
 
 import pandas as pd
 import unidecode
+from pymongo import MongoClient
 
 
 def normaliza(termo):
@@ -81,61 +83,82 @@ def tem_no_sus(remedio):
     return not dfListaRename[dfListaRename["PRINCIPIO"].str.contains(remedio)].empty
 
 
-def grava_falta_remedio_por_municipio(posto, remedio, municipio):
-    try:
-        reclamacoes[(posto, remedio, municipio)].insert(-1, datetime.datetime.now())
+def grava_falta_remedio_por_municipio(posto, remedio, municipio, ip):
+    novo_item = {"cod_posto": posto,
+                 "remedio_id": remedio,
+                 "municipio": municipio}
+    report = {"data": datetime.datetime.now(), "ip": ip}
+    item = collection.find_one(novo_item)
 
-    except:
-        reclamacoes[(posto, remedio, municipio)] = [datetime.datetime.now()]
-
-    s = retorna_score_simples(posto, remedio, municipio)
-    if (municipio in max_score.keys()):
-        if s > max_score[(municipio)]:
-            max_score[(municipio)] = s
+    score = 1
+    if item:
+        score = 1 + score_simples(item["reports_negativos"])
+        collection.update_one(item, {'$addToSet': {'reports_negativos': report},
+                                     '$set': {'score_simples': score}})
+        # collection.update_one(item,{'$push': report} )
     else:
-        max_score[(municipio)] = s
-    return len(reclamacoes[(posto, remedio, municipio)])
+        novo_item["reports_negativos"] = [report]
+        novo_item["score_simples"] = score
+        item = collection.insert_one(novo_item)
 
-
-def score_posto(posto, remedio, municipio):
-    if (municipio in max_score.keys()):
-        sc = retorna_score_simples(posto, remedio, municipio) / max_score[(municipio)]
-        if sc < 0.33:
-            return 1
-        if sc < 0.67:
-            return 2
-        return 3
-        # return retorna_score_simples(posto, remedio, municipio) / max_score[(municipio)]
+    # grava max_score_simples
+    max_score_municipio = db.scores_municipios.find_one({"_id": municipio})
+    if max_score_municipio:
+        if max_score_municipio["score_simples"] < score:
+            db.scores_municipios.update_one({"_id": municipio}, {'$set': {'score_simples': score}})
     else:
-        return 1
+        db.scores_municipios.insert_one({"_id": municipio,
+                                         'score_simples': score})
+
+    return item
 
 
-def retorna_score_simples(posto, remedio, municipio):
-    try:
-        score = 0
-        # base para o decaimento exponencial: score += base ** (dataAtual - dataDenuncia[i])
-        # ex.: dias  = 7    (uma semana)
-        #      fator = 1/10
-        # ou seja, o score de uma denúncia hoje, equivale ao de 10 denúncias há 7 dias
-        fator = 1 / 10
-        dias = 7
-        BASE = fator ** (1 / dias)
+def score_123(posto, remedio, municipio):
+    max_score_municipio = db.scores_municipios.find_one({"_id": municipio})
+    if max_score_municipio:
+        busca = {"cod_posto": posto,
+                 "remedio_id": remedio,
+                 "municipio": municipio}
+        posto = collection.find_one(busca)
 
-        # qtde_denuncias = len(denuncias[(posto, remedio,,municipio)])
+        if posto:
+            score_normalizado = posto["score_simples"] / max_score_municipio["score_simples"]
+            print(score_normalizado)
+            if score_normalizado < 0.33:
+                return 1
+            if score_normalizado < 0.67:
+                return 2
+            return 3
+    return 1
 
-        for denuncia in reclamacoes[(posto, remedio, municipio)]:
-            dias = (datetime.datetime.now() - denuncia).days
-            if dias <= 30:
-                score += BASE ** dias
-        return score
-    except:
-        return 0
+
+def score_simples(reports):
+    score = 0
+    # base para o decaimento exponencial: score += base ** (dataAtual - dataDenuncia[i])
+    # ex.: dias  = 7    (uma semana)
+    #      fator = 1/10
+    # ou seja, o score de uma denúncia hoje, equivale ao de 10 denúncias há 7 dias
+    fator = 1 / 10
+    dias = 7
+    base = fator ** (1 / dias)
+
+    # qtde_denuncias = len(denuncias[(posto, remedio,,municipio)])
+
+    for report in reports:
+        # print (report["data"])
+        dias = (datetime.datetime.now() - report["data"]).days
+        # print(str(report["data"]) + " = " + str(dias))
+        if dias <= 30:
+            score += base ** dias
+            print(score)
+
+    return score
 
 
 def ranking(qtde):
     """
         TODO: implementar """
-    return str(reclamacoes)
+    return ''
 
 
 dfListaProdutos = pd.read_json('data/listaISO.json')
@@ -149,9 +172,19 @@ dfListaRename['id'] = dfListaRename.index
 dfListaRename.rename(index=str, columns={"COMPONENTE": "APRESENTACAO", "COMPOSICAO": "PRODUTO"})
 dfListaRename['comercial'] = ""
 
-reclamacoes = dict()
-max_score = dict()
-max_score["municipio"] = 0
+# reclamacoes = dict()
+# max_score = dict()
+# max_score["municipio"] = 0
+
+
+# Inicializa MongoDB
+
+mongo_url = os.getenv('MONGODB_CADEMEUREMEDIO', 'mongodb://localhost:27017')
+conn = MongoClient(mongo_url)
+db = conn[os.getenv('DBNAME_CADEMEUREMEDIO', 'cademeuremedio')]
+
+collection = db.reports
+
 
 # TODO: Guardar valores no BD: listas de remedios consolida (relacionando rename e nomes comerciais), assim como os reports dos usuários
 # TODO: Arrumar RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
