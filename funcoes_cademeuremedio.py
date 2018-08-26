@@ -32,7 +32,7 @@ def lista_medicamentos_sus(termo):
         for principio in principios:
             result = dfListaRename[dfListaRename["remedio"].str.contains(principio)]
             if not result.empty:
-                result.loc['comercial'] = busca_nome_comercial(termo)
+                result['comercial'] = busca_nome_comercial(termo)
                 if dfl.empty:
                     dfl = result
                 else:
